@@ -10,8 +10,8 @@
 - [OpenAI API](https://replicate.com) - access the model
 - [TLDraw Editor](https://www.npmjs.com/package/@tldraw/tldraw) - draw the UI
 - [TailwindCSS](https://tailwindcss.com) - style library
-- [React Hot Toast](https://react-hot-toast.com)
-- [Lucide Icons](https://lucide.dev)
+- [React Hot Toast](https://react-hot-toast.com) - React notifications
+- [Lucide Icons](https://lucide.dev) - icons for the modal etc
 
 #### 🧠 Learn More
 
@@ -36,3 +36,4 @@ Inspired by: https://github.com/SawyerHood/draw-a-ui
 
 - model now requires paid credits
 - model name has changed
+- added Next.js 14 for routing, multiple pages, etc
