@@ -33,3 +33,6 @@
 **Note**: multiple submissions of the same or slightly tweaked drawing can return different results. Apparently there are many assistants, and the prompt does allow some creative license. Feel free to tweak the prompt to your needs.
 
 Inspired by: https://github.com/SawyerHood/draw-a-ui
+
+- model now requires paid credits
+- model name has changed
